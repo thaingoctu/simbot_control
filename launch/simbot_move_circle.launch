@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+	<node
+		name="simbot_move_circle"
+		pkg="simbot_control"
+		type="simbot_move_circle.py"
+		output="screen">
+	</node>
+</launch>
